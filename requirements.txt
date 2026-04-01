@@ -1,6 +1,5 @@
-aiogram
-python-dotenv
-ffmpeg-python
+aiogram==3.x
+moviepy
 librosa
 numpy
-Pillow
+python-dotenv
