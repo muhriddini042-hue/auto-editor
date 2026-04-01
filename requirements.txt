@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+ffmpeg-python
+librosa
+numpy
+Pillow
